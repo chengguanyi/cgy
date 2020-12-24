@@ -1,0 +1,3 @@
+# Project exclude paths
+/cgy-base-starter/target/
+/spring-boot-start-demo/target/
