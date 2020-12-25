@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.xuanwu.ai.log.config.BaseAutoConfig
+  com.xuanwu.ai.base.config.BaseAutoConfig

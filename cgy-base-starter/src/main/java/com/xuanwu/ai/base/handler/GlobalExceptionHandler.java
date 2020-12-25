@@ -7,6 +7,7 @@ import com.xuanwu.ai.base.exception.enums.IResponseEnum;
 import com.xuanwu.ai.base.exception.enums.ResponseEnum;
 import com.xuanwu.ai.base.request.bean.RequestDetail;
 import com.xuanwu.ai.base.request.holder.RequestDetailThreadLocal;
+import com.xuanwu.ai.base.response.ErrorResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
